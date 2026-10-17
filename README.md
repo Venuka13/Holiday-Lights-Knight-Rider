@@ -1,5 +1,5 @@
 # Holiday-Lights-Knight-Rider
-#  8-LED Programmable Holiday Light Array
+# 🎄 8-LED Programmable Holiday Light Array
 
 An embedded systems project featuring a dynamic 8-LED hardware array controlled by an Elegoo UNO R3 microcontroller. The system cycles through 5 custom programmable animation sequences using a debounced hardware pushbutton, with real-time speed control modulated via an analog potentiometer.
 
